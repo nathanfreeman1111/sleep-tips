@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "sleep-tips:toggle"
   },
-  "repository": "https://github.com/atom/sleep-tips",
+  "repository": "https://github.com/nathanfreeman1111/sleep-tips",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
