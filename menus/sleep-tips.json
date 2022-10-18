@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle sleep-tips",
+        "command": "sleep-tips:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "sleep-tips",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "sleep-tips:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
