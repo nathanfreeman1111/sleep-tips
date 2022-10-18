@@ -4,6 +4,9 @@
   "version": "0.0.0",
   "description": "Tips to Improve Your Sleep When Times Are Tough",
   "keywords": [
+    "sleep tips",
+    "sleep",
+    "tips"
   ],
   "activationCommands": {
     "atom-workspace": "sleep-tips:toggle"
