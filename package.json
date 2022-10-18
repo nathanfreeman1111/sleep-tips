@@ -1,7 +1,7 @@
 {
   "name": "sleep-tips",
   "main": "./lib/sleep-tips",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Tips to Improve Your Sleep When Times Are Tough",
   "keywords": [
     "sleep tips",
@@ -16,6 +16,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
